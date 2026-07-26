@@ -150,13 +150,12 @@ data/opportunities.json   — curated database (20 entries)
 - Saved/bookmarked opportunities are stored in the browser's `localStorage`, so they're per-device, not synced to an account (no login system was built, by design, to keep the scope focused on the AI matching feature).
 - This tool drafts a *first draft* of a motivation-letter paragraph — students should always review, personalize, and fact-check before submitting anything.
 
-
 ---
 
 ## Author
 
-**Muhammad Shariq Naseer**
-Final Project — Generative AI
+**Muhammad Shariq Naseer**  
+Final Project — Generative AI Course
 
 - 📧 shariqmuhammad478@gmail.com  
 - 🔗 https://github.com/shariqmuhammad478-commits
