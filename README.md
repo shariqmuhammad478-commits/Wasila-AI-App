@@ -149,3 +149,17 @@ data/opportunities.json   — curated database (20 entries)
 - The opportunity database is a hand-curated static list for this project, not a live scraper — deadlines and details should always be verified on the official source (linked on every card).
 - Saved/bookmarked opportunities are stored in the browser's `localStorage`, so they're per-device, not synced to an account (no login system was built, by design, to keep the scope focused on the AI matching feature).
 - This tool drafts a *first draft* of a motivation-letter paragraph — students should always review, personalize, and fact-check before submitting anything.
+
+
+---
+
+## Author
+
+**Muhammad Shariq Naseer**
+Final Project — Generative AI
+
+- 📧 shariqmuhammad478@gmail.com  
+- 🔗 https://github.com/shariqmuhammad478-commits
+- 💼 https://www.linkedin.com/in/muhammad-shariq-8696543b7?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+*Wasila was built end-to-end as an individual project — idea, design, code, and deployment — to solve a real problem I've personally faced while searching for scholarships and internships.*
