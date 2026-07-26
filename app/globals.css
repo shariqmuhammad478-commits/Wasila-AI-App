@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #0B1220;
+  background-image:
+    radial-gradient(circle at 15% 10%, rgba(201, 169, 97, 0.06), transparent 40%),
+    radial-gradient(circle at 85% 90%, rgba(74, 124, 89, 0.05), transparent 40%);
+  color: #F5F3ED;
+  font-family: 'Inter', sans-serif;
+  min-height: 100vh;
+}
+
+.font-display {
+  font-family: 'Fraunces', serif;
+}
+
+.font-mono {
+  font-family: 'JetBrains Mono', monospace;
+}
+
+/* Seal ring for match scores — the signature visual element */
+.seal-ring {
+  transform: rotate(-90deg);
+}
+
+.seal-ring circle {
+  transition: stroke-dashoffset 0.8s ease-out;
+}
+
+::selection {
+  background-color: rgba(201, 169, 97, 0.35);
+  color: #F5F3ED;
+}
+
+/* Visible keyboard focus */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+  outline: 2px solid #C9A961;
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Custom scrollbar for the parchment-on-navy aesthetic */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #0F1729;
+}
+::-webkit-scrollbar-thumb {
+  background: #2A3A63;
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #C9A961;
+}
