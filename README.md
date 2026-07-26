@@ -1,5 +1,10 @@
 # Wasila (وسیلہ) — the connection between you and the opportunity that fits
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-wasila--ai--app.vercel.app-C9A961?style=for-the-badge&logo=vercel&logoColor=white)](https://wasila-ai-app.vercel.app/)
+[![AI Engine](https://img.shields.io/badge/AI%20Engine-Groq%20Llama%203.3-16213E?style=for-the-badge&logo=meta&logoColor=white)](https://groq.com)
+[![Framework](https://img.shields.io/badge/Framework-Next.js%2014-0B1220?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
+[![Styling](https://img.shields.io/badge/Styling-Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+
 **Wasila** is an AI-powered scholarship and internship matcher built for students who are tired of scrolling through a dozen scattered Facebook groups, WhatsApp forwards, and outdated PDFs to find opportunities they're actually eligible for. You give Wasila your CGPA, degree level, field, and a short description of your interests — it ranks a curated database of scholarships, internships, grants, and fellowships against your profile, explains *why* each one fits, and drafts a tailored motivation-letter paragraph for your best match.
 
 The name comes from the Urdu/Arabic word **وسیلہ (wasila)** — "the means" or "the connection" — which is exactly what the app tries to be between a student and their next opportunity.
@@ -10,7 +15,7 @@ Undergraduate and graduate students — in Pakistan especially, but the matcher 
 
 ## Live app
 
-🔗 **[https://wasila-ai-app.vercel.app/](https://wasila-yourname.vercel.app)** — live and working
+🔗 **[https://wasila-ai-app.vercel.app/](https://wasila-ai-app.vercel.app/)**
 
 ## Features
 
