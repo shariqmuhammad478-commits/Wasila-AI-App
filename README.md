@@ -10,7 +10,7 @@ Undergraduate and graduate students — in Pakistan especially, but the matcher 
 
 ## Live app
 
-🔗 **[https://your-deployment-url.vercel.app](https://your-deployment-url.vercel.app)** ← replace with your actual Vercel URL after deploying (see [How to run this project](#how-to-run-this-project))
+🔗 **[https://wasila-ai-app.vercel.app/](https://wasila-yourname.vercel.app)** — live and working
 
 ## Features
 
